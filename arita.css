@@ -1,0 +1,184 @@
+/* Arita Dotum (Korean) */
+@font-face {
+  font-family: "Arita Dotum";
+  font-style: normal;
+  font-weight: 100;
+  src: /* Local font */ local("Arita4.0_T"),
+    /* Super Modern Browsers */ url("Arita4.0_T.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita4.0_T.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita4.0_T.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Dotum";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("Arita4.0_L"),
+    /* Super Modern Browsers */ url("Arita4.0_L.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita4.0_L.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita4.0_L.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Dotum";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("Arita4.0_M"),
+    /* Super Modern Browsers */ url("Arita4.0_M.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita4.0_M.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita4.0_M.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Dotum";
+  font-style: normal;
+  font-weight: 600;
+  src: /* Local font */ local("Arita4.0_SB"),
+    /* Super Modern Browsers */ url("Arita4.0_SB.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita4.0_SB.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita4.0_SB.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Dotum";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("Arita4.0_B"),
+    /* Super Modern Browsers */ url("Arita4.0_B.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita4.0_B.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita4.0_B.otf") format("opentype");
+}
+
+/* Arita Buri (Korean) */
+
+@font-face {
+  font-family: "Arita Buri";
+  font-style: normal;
+  font-weight: 100;
+  src: /* Local font */ local("Arita-buriHL"),
+    /* Super Modern Browsers */ url("Arita-buriHL.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriHL.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriHL.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Buri";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("Arita-buriL"),
+    /* Super Modern Browsers */ url("Arita-buriL.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriL.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriL.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Buri";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("Arita-buriM"),
+    /* Super Modern Browsers */ url("Arita-buriM.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriM.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriM.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Buri";
+  font-style: normal;
+  font-weight: 600;
+  src: /* Local font */ local("Arita-buriSB"),
+    /* Super Modern Browsers */ url("Arita-buriSB.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriSB.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriSB.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Buri";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("Arita-buriB"),
+    /* Super Modern Browsers */ url("Arita-buriB.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriB.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriB.otf") format("opentype");
+}
+
+/* Arita Sans (English) */
+@font-face {
+  font-family: "Arita Sans";
+  font-style: normal;
+  font-weight: 100;
+  src: /* Local font */ local("AritaSans-Thin"),
+    /* Super Modern Browsers */ url("AritaSans-Thin.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Thin.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Thin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("AritaSans-Light"),
+    /* Super Modern Browsers */ url("AritaSans-Light.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Light.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("AritaSans-Medium"),
+    /* Super Modern Browsers */ url("AritaSans-Medium.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Medium.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: /* Local font */ local("AritaSans-SemiBold"),
+    /* Super Modern Browsers */ url("AritaSans-SemiBold.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-SemiBold.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("AritaSans-Bold"),
+    /* Super Modern Browsers */ url("AritaSans-Bold.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Bold.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Bold.otf") format("opentype");
+}
+
+/* Arita Heiti (Chinese) */
+@font-face {
+  font-family: "Arita Heiti";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("AritaHeiti-Light"),
+    /* Super Modern Browsers */ url("AritaHeiti-Light.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Light.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Heiti";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("AritaHeiti-Medium"),
+    /* Super Modern Browsers */ url("AritaHeiti-Medium.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Medium.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arita Heiti";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("AritaHeiti-Bold"),
+    /* Super Modern Browsers */ url("AritaHeiti-Bold.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Bold.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Bold.otf") format("opentype");
+}

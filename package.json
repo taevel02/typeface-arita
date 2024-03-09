@@ -1,0 +1,26 @@
+{
+  "name": "typeface-arita",
+  "version": "1.0.0",
+  "description": "Airita Typeface representing the philosophy and culture of Amorepacific",
+  "main": "arita.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taevel02/typeface-arita.git"
+  },
+  "keywords": [
+    "arita",
+    "arita dotum",
+    "arita buri",
+    "arita sans",
+    "arita heiti"
+  ],
+  "author": "Amorepacific",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/taevel02/typeface-arita/issues"
+  },
+  "homepage": "https://github.com/taevel02/typeface-arita/#README"
+}
