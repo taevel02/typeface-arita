@@ -1,0 +1,124 @@
+/* Arita Global 2 (Arita Buri(ko), Arita Sans(en), Arita Heiti(cn)) */
+/* font-weight: 300, 500(normal), 700 */
+/* Only Korean and English can have a font-weight of 100. */
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 100;
+  src: /* Local font */ local("Arita-buriHL"),
+    /* Super Modern Browsers */ url("Arita-buriHL.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriHL.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriHL.otf") format("opentype");
+  unicode-range: U+AC00-D7A3, U+0030-0039, U+0020-007E; /* Korean, Numbers, Characters */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("Arita-buriL"),
+    /* Super Modern Browsers */ url("Arita-buriL.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriL.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriL.otf") format("opentype");
+  unicode-range: U+AC00-D7A3, U+0030-0039, U+0020-007E; /* Korean, Numbers, Characters */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("Arita-buriM"),
+    /* Super Modern Browsers */ url("Arita-buriM.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriM.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriM.otf") format("opentype");
+  unicode-range: U+AC00-D7A3, U+0030-0039, U+0020-007E; /* Korean, Numbers, Characters */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("Arita-buriB"),
+    /* Super Modern Browsers */ url("Arita-buriB.woff2") format("woff2"),
+    /* Modern Browsers */ url("Arita-buriB.woff") format("woff"),
+    /* Safari, Android, iOS */ url("Arita-buriB.otf") format("opentype");
+  unicode-range: U+AC00-D7A3, U+0030-0039, U+0020-007E; /* Korean, Numbers, Characters */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 100;
+  src: /* Local font */ local("AritaSans-Thin"),
+    /* Super Modern Browsers */ url("AritaSans-Thin.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Thin.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Thin.otf") format("opentype");
+  unicode-range: U+0041-005A, U+0061-007A; /* English */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("AritaSans-Light"),
+    /* Super Modern Browsers */ url("AritaSans-Light.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Light.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Light.otf") format("opentype");
+  unicode-range: U+0041-005A, U+0061-007A; /* English */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("AritaSans-Medium"),
+    /* Super Modern Browsers */ url("AritaSans-Medium.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Medium.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Medium.otf") format("opentype");
+  unicode-range: U+0041-005A, U+0061-007A; /* English */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("AritaSans-Bold"),
+    /* Super Modern Browsers */ url("AritaSans-Bold.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaSans-Bold.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaSans-Bold.otf") format("opentype");
+  unicode-range: U+0041-005A, U+0061-007A; /* English */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 300;
+  src: /* Local font */ local("AritaHeiti-Light"),
+    /* Super Modern Browsers */ url("AritaHeiti-Light.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Light.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Light.otf") format("opentype");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF; /* Chinese */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: normal;
+  src: /* Local font */ local("AritaHeiti-Medium"),
+    /* Super Modern Browsers */ url("AritaHeiti-Medium.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Medium.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Medium.otf") format("opentype");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF; /* Chinese */
+}
+
+@font-face {
+  font-family: "Arita";
+  font-style: normal;
+  font-weight: 700;
+  src: /* Local font */ local("AritaHeiti-Bold"),
+    /* Super Modern Browsers */ url("AritaHeiti-Bold.woff2") format("woff2"),
+    /* Modern Browsers */ url("AritaHeiti-Bold.woff") format("woff"),
+    /* Safari, Android, iOS */ url("AritaHeiti-Bold.otf") format("opentype");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF; /* Chinese */
+}
