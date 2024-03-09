@@ -75,14 +75,14 @@ import 방식
 
 \# 일반
 
-https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.css
-https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-dotum.css
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.css\
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-dotum.css\
 https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-buri.css
 
 \# 최소버전
 
-https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.min.css
-https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-dotum.min.css
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.min.css\
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-dotum.min.css\
 https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita-global-buri.min.css
 
 #### css 적용방법
