@@ -55,23 +55,23 @@ link 방식
 <link
   rel="stylesheet"
   type="text/css"
-  href="https://cdn.jsdelivr.net/npm/typeface-arita@1.0.0/arita.min.css"
+  href="https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.min.css"
 />
 ```
 
 import 방식
 
 ```css
-@import url("https://cdn.jsdelivr.net/npm/typeface-arita@1.0.0/arita.min.css");
+@import url("https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.min.css");
 ```
 
 \# 일반
 
-https://cdn.jsdelivr.net/npm/typeface-arita@1.0.0/arita.css
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.css
 
 \# 최소버전
 
-https://cdn.jsdelivr.net/npm/typeface-arita@1.0.0/arita.min.css
+https://cdn.jsdelivr.net/gh/taevel02/typeface-arita/arita.min.css
 
 #### css 적용방법
 
